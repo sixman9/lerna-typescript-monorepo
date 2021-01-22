@@ -8,3 +8,7 @@ The tutorial will show you how to:
 - Create multiple packages that can be imported
 - Setup TypeScript with incremental builds
 - Compile our TypeScript packages
+
+# ESLint for TypeScript with Lerna
+
+- https://whatthe.fi/monorepos-with-typescript-8ee490235deb

@@ -5,6 +5,7 @@
   "types": "dist/index",
   "scripts": {
     "build": "npm run clean && npm run compile",
+    "check": "tsc --noEmit",
     "clean": "rm -rf ./dist && rm -rf tsconfig.tsbuildinfo",
     "compile": "tsc -b tsconfig.json"
   },
